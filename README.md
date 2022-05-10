@@ -1,7 +1,7 @@
 # Finance-Web-App
 
 ## Description
-Building a Clone of TradingView. Full Stack development using MongoDB and NodeJS. Will apply some NLP and Machine Learning by developing Sentiment Tracking Software.
+Building a Clone of TradingView. Full Stack development using SQL and NodeJS. Will apply some NLP and Machine Learning by developing Sentiment Tracking Software.
 
 For personal training and practice.
 
