@@ -22,3 +22,4 @@ For personal training and practice.
 ### Asset Data
 - Track a variety of key indicators on an asset (Price, Volume, PE ratio, Dividends)
 - Program a sentiment tracker using NLP and Machine Learning, Webscraping of Twitter and Market News
+- Create time series graphs of certain key asset data (Such as PE over time, EPS over time, Profit margin over time etc.)
