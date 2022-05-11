@@ -17,7 +17,12 @@ Charting and Visualisations:
 Machine Learning and Text Analysis:
 1. sklearn
 2. spacy
-3. Tensorflow [If we planning to use Neural Networks]
+3. Tensorflow/Keras [If we planning to use Neural Networks]
+
+Processing and Serialising Models for storage
+1. Pickle [sklearn]
+2. JobLib [sklearn]
+3. Keras has a method to convert to json
 
 Scraping:
 1. Twint/Tweepy
